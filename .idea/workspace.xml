@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6776dfc8-e45c-481b-a686-9aa7fd7995b5" name="Default Changelist" comment="" />
+    <list default="true" id="6776dfc8-e45c-481b-a686-9aa7fd7995b5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/AudioAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AudioPlayer.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +35,14 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.AdapterPatternDemo">
+    <configuration name="AdapterPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdapterPatternDemo" />
+      <module name="Adapter" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Test" />
       <module name="Adapter" />
@@ -43,6 +52,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AdapterPatternDemo" />
         <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
@@ -77,6 +87,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="560" y="114" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1579455972028" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1579458893036">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1579458893036" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1579458893036">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1579458893036" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1579458893035">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1579458893035" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1579458893036">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1579458893036" />
     <state x="440" y="95" key="SettingsEditor" timestamp="1579456052856">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

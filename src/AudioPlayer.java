@@ -1,4 +1,4 @@
-public class AudioAdapter implements MediaPlayer {
+public class AudioPlayer implements MediaPlayer {
 
     MediaAdapter mediaAdapter;
 
